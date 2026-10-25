@@ -21,3 +21,14 @@ Funciones principales:
 - Ver fotografías guardadas.
 - Realizar llamadas.
 
+- ## Capturas de pantalla
+
+### 1. Formulario de registro
+![Formulario de registro](Captura2.PNG)
+
+### 2. Lista de contactos
+![Lista de contactos](Captura3.PNG)
+
+### 3. Pantalla de llamada
+![Pantalla de llamada](Captura4.PNG)
+
