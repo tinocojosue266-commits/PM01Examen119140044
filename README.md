@@ -24,11 +24,13 @@ Funciones principales:
 - ## Capturas de pantalla
 
 ### 1. Formulario de registro
-![Formulario de registro](Captura2.PNG)
+![Formulario de registro](Captura1.PNG)
 
 ### 2. Lista de contactos
-![Lista de contactos](Captura3.PNG)
+![Lista de contactos](Captura.PNG)
 
 ### 3. Pantalla de llamada
+![Pantalla de llamada](Captura3.PNG)
 ![Pantalla de llamada](Captura4.PNG)
+
 
